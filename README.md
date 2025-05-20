@@ -1,6 +1,7 @@
 # google_maps_in_flutter
 
 A new Flutter project that uses Google Maps plugin.
+Followed this tutorial: https://codelabs.developers.google.com/codelabs/google-maps-in-flutter?hl=en#0
 
 ## Getting Started
 
